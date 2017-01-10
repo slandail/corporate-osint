@@ -29,5 +29,7 @@ IntelTechniques [https://inteltechniques.com/osint/maps.html]
 Search Engine Queries - Locations
 ---------------------------------
   “company_name” headquarters address
+  
   “company_name” branch office
+  
   “city state” county
