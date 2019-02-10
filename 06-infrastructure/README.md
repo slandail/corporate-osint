@@ -1,6 +1,5 @@
 [https://www.pluralsight.com/courses/osint-gathering-corporate-targets]
 
-=================================
 Identifying Infrastructure Assets
 =================================
 
